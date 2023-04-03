@@ -24,8 +24,6 @@ jobs:
           config_animated: yes
           config_timezone: Asia/Shanghai
           plugin_followup: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
           # ... other options
           plugin_projects: yes
           plugin_projects_limit: 4
