@@ -20,7 +20,7 @@ jobs:
           # Options
           user: tu10ng
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           config_animated: yes
           config_timezone: Asia/Shanghai
           plugin_activity: yes
