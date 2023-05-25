@@ -398,7 +398,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 56.8%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 56.792%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">71%</span>
                             </div>
                             <div class="entry">
@@ -422,7 +422,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 May 2023, 00:25:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 26 May 2023, 01:19:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
