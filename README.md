@@ -3,7 +3,7 @@
 
 - currently interested in `computer networking`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu10ng&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu10ng&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Facts about me
 - i use `Arch Linux` and `Windows`, i dont use `WSL`
