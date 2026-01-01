@@ -17,3 +17,7 @@
 - my favorite food is `noodles` and `egg fried rice`
 - i prefer to learn how different people learns(
 - i like balance or realism games, like `cdda`, `slay the spire`, `eurotruck simulator`, `war thunder` 
+
+### my pc
+<img width="1529" height="902" alt="image" src="https://github.com/user-attachments/assets/e31d0ca7-554f-45e2-85a5-6ecdfd081e68" />
+
