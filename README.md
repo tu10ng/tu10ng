@@ -1,5 +1,5 @@
 ### conosuba~
-如果我的项目对你有帮助, 我会很开心www
+为美好的世界献上祝福!
 
 - currently interested in `computer networking`
 
@@ -11,9 +11,9 @@
 - i use `tilda` as terminal
 - i use `fish` and `bash`, i write scritps in `dash`
 - i use `magit` for git
-- i dont like `round corners`, i wish everything in square shape
+- i dont like `round corners`, wish everything in square shape
 - i dont use unicode emoji
-- i prefer `green on gray` theme
+- i prefer `green on gray` theme, (:foreground "green" :background "#252525)
 - my favorite food is `noodles` and `egg fried rice`
 - i prefer to learn how different people learns(
 - i like balance or realism games, like `cdda`, `slay the spire`, `eurotruck simulator`, `war thunder` 
